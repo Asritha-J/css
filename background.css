@@ -1,0 +1,9 @@
+
+div{
+	width: 200px;
+			height: 200px;
+			background-color: red;
+			background-image: url('gitar.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
